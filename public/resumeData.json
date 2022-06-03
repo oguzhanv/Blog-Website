@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Oğuzhan Varlı",
+    "occupation": "İstanbul'da yaşıyorum",
+    "description": "Wissen Akademie Web ve Mobil Programlama(800 saat) kursuna devam etmekteyim.",
+    "image": "profile.picture.jpg",
+    "bio": "Wissen Akademie-Bahçeşehir Üniversitesi’nin İşkur ortaklı, 8.000 aday arasından seçilmeye hak kazandığım Web ve Mobil Programlama kursuna Ocak 2022 tarihinden beri devam etmekteyim.Kurs içeriğinde: C#, OOP, .Net Core, Entity Framework, JavaScript, React, React Native dersleri almaktayım.Ayrıca Trakya Üniversitesi İktisat bölümünde yüksek lisans yapmaktayım.Trakya Üniversitesi Makina Mühendisliği bölümünden Şubat 2020 yılında mezun oldum.Amerikan Kültür Kursları' nda B2 seviyesinde İngilizce kursunu bitirdim.",
+    "contactmessage": "Bana iletmek istediğin bir şey varsa hemen gönder!",
+    "email": "oguzhn.varli@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "Üsküdar",
+      "city": "İstanbul"
+    },
+    "website": "http://www.oguzhanvarli.com",
+    "resumedownload": "http://oguzhanvarli.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oguzhanvarli/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/oguzhnvarli",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/oguzhanvarli",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "C#, Asp.Net Core, HTML5, CSS3, JavaScript, React.js, React Native dillerini kullanmaktayım.",
+    "education": [
+      {
+        "school": "Trakya Üniversitesi",
+        "degree": "Masters in Economics",
+        "graduated": "Continue"
+      },
+      {
+        "school": "Trakya Üniversitesi",
+        "degree": "Bachelor of Mechanical Enginering",
+        "graduated": "February 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bahçeşehir Üniversitesi - Wissen Akademie",
+        "title": "Juniour Full Stack Developer",
+        "years": "January 2022 - Present",
+        "description": "• C# ve OOP ile kodlama yapmak. • Windows From uygulamalarının tasarımı ve kodlanmasını. • MsSql ve SQlite kullanımı. • HTML5, CSS3, JavaScript, JQuery, Sass ve Bootstrap kullanımı ve öğrenimi. • Asp.Net Core MVC teknolojisini kullanarak web uygulamaları geliştirmek. • Entity Framework kullanımı. • React Native ile uygulama yazmak ve geliştirmek."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "Asp.Net Core",
+        "level": "70%"
+      },
+      {
+        "name": "React.Js",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MiniShop Application",
+        "category": "E-Ticaret",
+        "image": "MiniShop.png",
+        "url": ""
+      },
+      {
+        "title": "Bus Reservation",
+        "category": "Ticket reservation",
+        "image": "BusReservation.png",
+        "url": ""
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
